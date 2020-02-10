@@ -243,7 +243,7 @@ img {
   animation-name: round;
   animation-duration: 750ms;
   animation-timing-function: var(--timing-fn);
-  animation-delay: 900ms;
+  animation-delay: 1000ms;
   animation-fill-mode: backwards;
 }
 
@@ -266,7 +266,7 @@ img {
   animation-name: round;
   animation-duration: 850ms;
   animation-timing-function: var(--timing-fn);
-  animation-delay: 900ms;
+  animation-delay: 1000ms;
   animation-fill-mode: backwards;
 }
 
@@ -533,7 +533,7 @@ img {
   animation-name: sliderlog;
   animation-duration: 500ms;
   animation-timing-function: var(--timing-fn);
-  animation-delay: 700ms;
+  animation-delay: 800ms;
   animation-fill-mode: backwards;
 }
 
@@ -582,7 +582,7 @@ img {
   animation-name: sliderben;
   animation-duration: 500ms;
   animation-timing-function: var(--timing-fn);
-  animation-delay: 750ms;
+  animation-delay: 800ms;
   animation-fill-mode: backwards;
 }
 
