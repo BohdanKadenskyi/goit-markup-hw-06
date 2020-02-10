@@ -275,12 +275,14 @@ img {
   text-decoration: none;
   border: 1px solid var(--accent-color);
   margin: 0 auto;
+  transform: scale(1);
 }
 
 .button-banner:hover,
 .button-banner:focus {
   color: var(--accent-color);
   background-color: var(--white-color);
+  transform: scale(1.2);
   transition: var(--animation-time) var(--timing-fn);
 }
 
